@@ -6,8 +6,8 @@
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=EkaterinaGil&style=flat-square&color=blue" alt=""/>
 </div>
-<h1 align="center"> Hi, I'm Ekaterina 
-<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<h1 align="center"> Hi, I'm Ekaterina :sparkles:
+</h1>
 <h3 align="center">I'm QA engineer from Russia, training in autotesting.</h3>
 :woman_technologist: About Me :
 
