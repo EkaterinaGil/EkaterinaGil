@@ -13,7 +13,6 @@
 
 * I am interested in writing tests in TypeScript using Playwright
 * Also I've been learning testing using JavaScript and Cypress
-* Now I'm training in Python and Pytest
   
 ---
 
