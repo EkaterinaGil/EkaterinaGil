@@ -30,7 +30,6 @@
 ---
 
 :fire: My Stats :
-[![GitHub Streak](https://streak-stats.demolab.com/?user=EkaterinaGil)](https://git.io/streak-stats)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EkaterinaGil&layout=compact&theme=vision-friendly-dark&card_width=300)](https://github.com/anuraghazra/github-readme-stats)
 
